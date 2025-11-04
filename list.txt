@@ -8,3 +8,4 @@ wurst
 orangen
 döner
 sommerspritzer
+Salat
