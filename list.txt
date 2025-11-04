@@ -1,9 +1,10 @@
 äpfel
 birnen
-Leberkaaas
- - normal
- - kaaas
- - pikant
+bananen
+bier
+leberkaaas
+chips
+wurst
 orangen
-Sommerspritzer
-Döner
+döner
+sommerspritzer
