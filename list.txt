@@ -4,3 +4,4 @@ Leberkaaas
  - normal
  - kaaas
  - chili
+orangen
