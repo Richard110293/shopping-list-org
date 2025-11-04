@@ -3,5 +3,5 @@ birnen
 Leberkaaas
  - normal
  - kaaas
- - chili
+ - pikant
 orangen
